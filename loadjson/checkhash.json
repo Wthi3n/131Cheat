@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0",
-      "expected_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "expected_text_sha256": "adde550f41846a802bb1ffeb7e4689d81d4d1caa15f9bdeb4a815e499d0140b2",
       "current": true,
       "updated_at": "2025-10-14T05:12:00Z"
     },
