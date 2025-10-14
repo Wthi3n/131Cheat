@@ -1,6 +1,16 @@
 {
   "framework": "AWSCognito",
-  "version": "1.0.3",
-  "expected_text_sha256": "f1076f3fda1f476006f3ec90de48d7760133f2f8d1b8071ed4e9076de0289a03",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "expected_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current": true,
+      "updated_at": "2025-10-14T05:12:00Z"
+    },
+    {
+      "version": "1.0.1",
+      "updated_at": "2025-09-20T10:00:00Z"
+    }
+  ],
   "updated_at": "2025-10-14T05:12:00Z"
 }
