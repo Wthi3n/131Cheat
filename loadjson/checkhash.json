@@ -1,12 +1,10 @@
 {
-  "framework": "AWSCognito",
   "releases": {
     "1.0.0": {
       "expected_text_sha256": [
-        "4e4c60f315fa7fffc8c2d7a726192a7f24d69c2038c2c2cc10dfa7da0d745e32",
-        "4e4c60f315fa7fffc8c2d7a726192a7f24d69c2038c2c2cc10dfa7da0d745e32"
+        "66a43206b4862cc300e167eb34de0a234d39751779737407285fcc0ed064a161"
       ]
     }
   },
-  "updated_at": "2025-10-15T05:00:00Z"
+  "updated_at": "2025-10-15T19:33:13Z"
 }
