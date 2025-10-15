@@ -1,11 +1,12 @@
 {
-  "ct": "544q9NGXIQtXUnZTQAgaML3eCYtXTjokMjsk7a34+yUAWstP8cjgf4g/RVL+AO3lGN+MQUr5i7gCSccUMdHDJ0uoF4vodgcgmrGrNHcKWGKqzbnulvzTIzyfy0rkAH2GCiqy66J7EAVy5sE5hDslvZiiGSy6tLsoLW3Ztrql+deX4783DawV15YA5/VYRxleWhqB2wv0vwjMxRb88+inrv/3YuGQs+5WULVRwtXPdTH8aGWkZNDb66mpCzNVPCyVgFevICZcJaJaVi45G+QWTltvsBEP+gDhg+cvInULcf8VpIya7MKjKe7m47cHeEwLTXBpV5UhCxZZAk38DPeLbw==",
-  "iv": "Q+HI5QDpLS9wvpA69DIxzQ==",
-  "kdf": {
-    "algo": "pbkdf2_sha256",
-    "iters": 200000
+  "framework": "AWSCognito",
+  "releases": {
+    "1.0.0": {
+      "expected_text_sha256": [
+        "681783668537c77f37c7398478d6e7da01f7d8fdebe10e8e7bf901e50b742002",
+        "681783668537c77f37c7398478d6e7da01f7d8fdebe10e8e7bf901e50b742002"
+      ]
+    }
   },
-  "mac": "fKd9jH3ycWdFkK1JCVMjZ4AhoCpsy7cdEFHZi/sefKU=",
-  "salt": "XFkxKExeR+v/U/bpwAjzUw==",
-  "ver": 1
+  "updated_at": "2025-10-15T05:00:00Z"
 }
