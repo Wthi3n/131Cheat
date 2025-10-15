@@ -1,15 +1,20 @@
 {
-  "framework": "AWSCognito",
-  "releases": [
-    {
-      "version": "1.0.0",
-      "expected_text_sha256": "423c20ae21744a3e8755a26dc4cee7049d796841894d0a59080fe8143153588b",
-      "notes": "Current stable"
-    },
-    {
-      "version": "1.0.2",
-      "expected_text_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
-    }
+  "v": 2,
+  "pbkdf2_iters": 240000,
+  "salt1": "yUWEnMbhwss3TsiMY2KNPA==",
+  "iv1": "cGA8bpvLVsgM/5eMzkBPZw==",
+  "salt2": "0FOci1jt9ldgE2A06nQgdw==",
+  "iv2": "H2Fzuek7pIXDUSZfcUvgCg==",
+  "chunks": [
+    "zQstrIs4w2LJfZM8mk7uqpLEE4k=",
+    "4e9WcmPKrbXTVDOGP2+SiTmyEIs=",
+    "YDEeJurcQHxNyMAO1E0AXTP7xlDZyF5Xzw==",
+    "7/lQIvFtwmcJve3hR7hemXllNn1QUShTg2V3o5kMEZiWTjryu2LqMvg=",
+    "cIYIqgXXh/olucX3bkftp+tEahfWraUKMNge2FS6HekOXV5moPGXgj6loXA69pjyb6Xv",
+    "MuK3dio9Do1UwJfgiPVD9z+q+w6ll91Tglla",
+    "6lbiEyK5gzy14zBvnS6QHblGlqgbDMmEwaIMIXuRldSE0JW/Qd8PgEplaI/kpV10/Jn1X6+b8WpGDgDZpv56+lLaUPk="
   ],
-  "updated_at": "2025-10-15T03:20:00Z"
+  "decoys": 3,
+  "layout_hint": "YYs4y3S5Yw==",
+  "mac": "ga2BrJsD04CrUhCWrANg3xNVIAJZWlYk+qh2MUmGnTw="
 }
