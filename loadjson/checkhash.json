@@ -1,20 +1,12 @@
 {
-  "v": 2,
-  "pbkdf2_iters": 240000,
-  "salt1": "UlRloN1OOiZ96ZNvqsiI/A==",
-  "iv1": "fHoBRx8d9id7mKv915HhTQ==",
-  "salt2": "GxJm8DcWx28kLldpLpq1Wg==",
-  "iv2": "4p+zbX+Vs9M8DE/nUvN/+g==",
-  "chunks": [
-    "Dhgs3HAEwp+gCP8Z0ZfbkiJsOvbtdHp6312CLqGgXlk=",
-    "haSrGWccVQb653EbG6M/uZQ00pSLgBa9PqUPfJcQxdzg1PamcKhVmY93BjiVv/iP1DyT+hV+3v3k",
-    "X6O4XTUAWpGtpA==",
-    "z8t14MKVDVCCRl/G9peiDJWuZHYhj3QrC72N2vKWi0OuseqSSB5dCh9GlmDrtuV6jJVTVVfiqfbr",
-    "4oxYmM9YYye7EuBr2g8RJiw9L6iDRURnq8/CbKYJfPE=",
-    "PLnN9qgbYwENS2sKqGsUqUnjMFO41i8mXlFK7II=",
-    "zQeun9m6COTepYJNmuj2a+6GlkZme8rSBMD3ODgcfk5vN5IytL3CbvP6baJ2YGweFu7XOnP7bUN/Xq6Nd/lqScgL+h/pNb2vm7XSeYsA5qXegVYtS8GefqGB"
-  ],
-  "decoys": 3,
-  "layout_hint": "SmEMq4RRpg==",
-  "mac": "9jh/zU+Jnuk5aRTYHSGQFC5SczRDZuePqzj/OpMmj70="
+  "framework": "AWSCognito",
+  "releases": {
+    "1.0.0": {
+      "expected_text_sha256": [
+        "89750e97826cec7f3c5106047af3d077a9244451c780bda349841dd021910e44",
+        "89750e97826cec7f3c5106047af3d077a9244451c780bda349841dd021910e44"
+      ]
+    }
+  },
+  "updated_at": "2025-10-15T05:00:00Z"
 }
