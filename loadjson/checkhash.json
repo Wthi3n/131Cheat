@@ -3,14 +3,13 @@
   "releases": [
     {
       "version": "1.0.0",
-      "expected_text_sha256": "adde550f41846a802bb1ffeb7e4689d81d4d1caa15f9bdeb4a815e499d0140b2",
-      "current": true,
-      "updated_at": "2025-10-14T05:12:00Z"
+      "expected_text_sha256": "423c20ae21744a3e8755a26dc4cee7049d796841894d0a59080fe8143153588b",
+      "notes": "Current stable"
     },
     {
-      "version": "1.0.1",
-      "updated_at": "2025-09-20T10:00:00Z"
+      "version": "1.0.2",
+      "expected_text_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
     }
   ],
-  "updated_at": "2025-10-14T05:12:00Z"
+  "updated_at": "2025-10-15T03:20:00Z"
 }
