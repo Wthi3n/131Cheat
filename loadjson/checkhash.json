@@ -1,11 +1,10 @@
 {
-  "H2$yW3_r^K6n@G5": {
+  "releases": {
     "1.0.0": {
-      "vK3@pL7#xQ9!sT2": [
-        "e59c1d6714791e737fb45b90fbf4b33b8f4ec9ab87ab074536b08fbb62cec3e8",
-        "bf93ece1708bacbe4de0bdf3b48efde8ac1f9e557ddd12be8f9fba32bcf64d90",
-        "64ba92cc41455dfd51e017d2205f285ad44532dc7de2e4250f559f296219d2db"
+      "expected_text_sha256": [
+        "bf93ece1708bacbe4de0bdf3b48efde8ac1f9e557ddd12be8f9fba32bcf64d90"
       ]
     }
-  }
+  },
+  "updated_at": "2025-10-16T06:58:49Z"
 }
