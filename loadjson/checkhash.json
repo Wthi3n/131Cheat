@@ -2,9 +2,9 @@
   "releases": {
     "1.0.0": {
       "expected_text_sha256": [
-        "49d2778db24c300cb0e8c421da7e200f541f0b97610f410701841f33aeb8c5f5"
+        "64ba92cc41455dfd51e017d2205f285ad44532dc7de2e4250f559f296219d2db"
       ]
     }
   },
-  "updated_at": "2025-10-16T05:32:58Z"
+  "updated_at": "2025-10-16T05:41:23Z"
 }
