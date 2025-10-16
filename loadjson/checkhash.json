@@ -2,6 +2,7 @@
   "releases": {
     "1.0.0": {
       "expected_text_sha256": [
+        "4397202fcf47fc4ee917a9052eeff495ea6dce698f2cf83f43e0a802cc46d05e",
         "bf93ece1708bacbe4de0bdf3b48efde8ac1f9e557ddd12be8f9fba32bcf64d90"
       ]
     }
