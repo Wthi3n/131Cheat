@@ -1,10 +1,10 @@
 {
   "releases": {
     "1.0.0": {
-      "checked": 36,
+      "checked": 1,
       "expected_text_sha256": [
         "606eba9c7fbc215ddb1db70718cdaec352e607011e7882e3004864951c67c009",
-        "bf93ece1708bacbe4de0bdf3b48efde8ac1f9e557ddd12be8f9fba32bcf64d90"
+        "fbaaa46d2837352b554bb50770c1eab6a698d6e53f61b81863d869b2961ea563"
       ]
     }
   },
