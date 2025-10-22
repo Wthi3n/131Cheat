@@ -3,7 +3,9 @@
     "1.0.0": {
       "checked": 1,
       "expected_text_sha256": [
-        "9f7ac1daf2ef537ac1343a5302dcf655fce845981c54c737efd5db079281a293"
+        "05c243a614ba5c37677c4345124bff2e4ae3f11826a67b0dc65598629125b521",
+        "0204df76c8e62fce0aef896df5b0522fc19a80319b44bfec6d9c5b4386fe8cd8",
+        "afbc588ce28eebac7cfcf96261a46bebf04529220e7ff9454439b509d8cad8d8"
       ]
     }
   },
