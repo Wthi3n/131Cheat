@@ -2,9 +2,11 @@
   "releases": [
     {
       "version": "1.0.0",
-      "expected_text_sha256": "e597e2d7cbe2c079c1f710f88f0c31f02fdd7eab68901768a0507d79bbb27b5c",
+      "expected_text_sha256": [
+        "518cad96926b4cb3956c002ec4b0cbee145513f675e145aab31ff3e860ae0bd8"
+      ],
       "hashesbackup": [
-        "ba97b358a13e5b359ecab170e2366a2dc19bf8ee8a713df828a358e458b33cd9",
+        "072be36b7a30a6362d6e31403d2ae64c11f05111884b33927a96853802ff4fce"
       ]
     }
   ]
