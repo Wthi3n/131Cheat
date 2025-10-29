@@ -1,0 +1,13 @@
+{
+  "releases": [
+    {
+      "version": "1.0.0",
+      "expected_text_sha256": [
+        "a3d25908f11ff712c02f03d73eff05b8cebfdf7d4554e114dc2c8fb152e86d2c"
+      ],
+      "hashesbackup": [
+        "a05dfde2506db6a833bb23326fb6dd46b2aae9cabd4bf2832278a67af695e326"
+      ]
+    }
+  ]
+}
