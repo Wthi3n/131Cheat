@@ -3,8 +3,8 @@
     "1.0.0": {
       "version": "1.0.0",
       "expected_text_sha256": [
-        "5fe54d172dddd74239484679cc839f418d0646b308ed8d586d84bdf76a45da01",
-        "06d5ae09fabee65069e10cf181b2cc8907f634c9096873882b7495dd9d73d121"
+        "06d5ae09fabee65069e10cf181b2cc8907f634c9096873882b7495dd9d73d121",
+        "5fe54d172dddd74239484679cc839f418d0646b308ed8d586d84bdf76a45da01"
       ],
       "hashesbackup": [
         "ebcb115a2b206d95c9ad72fd5841a21949ce3596b7b66d6203689afbc6bf7dc2",
