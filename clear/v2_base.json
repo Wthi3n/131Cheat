@@ -1,0 +1,1 @@
+bool authorized = ctdoconfig::is_hash_authori
